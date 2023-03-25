@@ -1,5 +1,9 @@
 # 😁TUGAS PROJECT PWD (PEMROGRAMAN WEB DINAMIS) SEMESTER 3 😁
 
+<h4 align="center">Tampilan User</h4>
+<img src="https://github.com/nopal087/PWD/blob/main/Screenshot%20(161).png" width="100%" alt="preview">
+<h4 align="center">Dashboard Admin</h4>
+<img src="https://github.com/nopal087/PWD/blob/main/Screenshot%20(162).png" width="100%" alt="preview">
 
 ## 1. TENTANG TOKOMERAH
 
