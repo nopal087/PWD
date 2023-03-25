@@ -41,6 +41,14 @@ a {
 	border: none;
 	cursor: pointer;
 }
+.btn-wa{
+	padding:8px 15px;
+	background-color: #09c271;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+}
+
 header {
 	background-color: #C70039;
 	color: #fff;
